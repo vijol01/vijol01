@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vijo L</h1>
-<h3 align="center">Python Backend Developer · Django · FastAPI · DRF</h3>
+<h3 align="center">Python Backend Developer · FastAPI · Django · DRF</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/vijol01"><img src="https://img.shields.io/badge/LinkedIn-vijol01-blue?style=flat&logo=linkedin" alt="LinkedIn"/></a>

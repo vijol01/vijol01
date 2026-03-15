@@ -75,7 +75,7 @@
   <a href="https://linkedin.com/in/vijol01" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="mailto:vijo@email.com">
+  <a href="mailto:vijolouis11@email.com">
     <img src="https://img.shields.io/badge/Email-Say%20Hello-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>

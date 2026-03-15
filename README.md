@@ -12,7 +12,7 @@
 ### 🧑‍💻 About Me
 
 - 🐍 Python Backend Developer with **1–3 years of experience**
-- 🛠️ Specializing in **Django · Django REST Framework · FastAPI**
+- 🛠️ Specializing in **FastAPI · Django · Django REST Framework**
 - 🗄️ Experienced with **PostgreSQL, MySQL, Redis, and Celery**
 - 🌍 Open to opportunities in **Chennai · Bangalore · Kochi · Trivandrum · Hyderabad**
 - 🔍 Focused on building clean, scalable, and well-documented REST APIs
@@ -26,9 +26,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 #### Frameworks
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=flat&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
 
 #### Databases
@@ -44,83 +44,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-
----
-
-### 📌 Featured Projects
-
----
-
-#### 🗂️ [task-manager-api](https://github.com/vijol01/task-manager-api)
-> A production-ready REST API for task and project management with JWT authentication.
-
-**Tech Stack:**
-`Python 3.11` `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `JWT` `Docker`
-
-**Key Highlights:**
-- 🔐 JWT-based authentication with refresh token support
-- ✅ Full CRUD for tasks, projects, and user profiles
-- 📄 Auto-generated Swagger & ReDoc API documentation
-- 🐳 Fully Dockerized with `docker-compose` for local and production setup
-- ⚡ Async SQLAlchemy ORM with Alembic database migrations
-
-```bash
-# Quick start
-git clone https://github.com/vijol01/task-manager-api
-cd task-manager-api
-docker-compose up --build
-# Swagger docs → http://localhost:8000/docs
-# ReDoc docs  → http://localhost:8000/redoc
-```
-
----
-
-#### 🏪 [django-ecommerce-api](https://github.com/vijol01/django-ecommerce-api)
-> Full-featured e-commerce backend built with Django REST Framework.
-
-**Tech Stack:**
-`Python 3.11` `Django 4.x` `Django REST Framework` `PostgreSQL` `Redis` `Celery` `Docker`
-
-**Key Highlights:**
-- 🛍️ Product catalog with categories, search, and filtering
-- 🛒 Cart management, order processing, and order history
-- 📧 Async email notifications using Celery + Redis as message broker
-- ⚡ Redis caching on product listings — reduced response time by ~40%
-- 🔒 Token-based auth using DRF's `TokenAuthentication` + permissions
-
-```bash
-# Quick start
-git clone https://github.com/vijol01/django-ecommerce-api
-cd django-ecommerce-api
-cp .env.example .env
-docker-compose up --build
-# API base URL → http://localhost:8000/api/v1/
-```
-
----
-
-#### 📊 [expense-tracker-api](https://github.com/vijol01/expense-tracker-api)
-> Personal finance and expense tracking API with monthly summaries and reports.
-
-**Tech Stack:**
-`Python 3.11` `Django` `Django REST Framework` `PostgreSQL` `Celery` `JWT`
-
-**Key Highlights:**
-- 💰 Track income, expenses, and categories per user
-- 📅 Monthly/weekly expense summary with aggregated stats
-- 📤 Scheduled monthly report generation via Celery Beat
-- 🔐 JWT authentication with role-based permissions
-- 📝 Clean, browsable DRF API with full endpoint documentation
-
-```bash
-# Quick start
-git clone https://github.com/vijol01/expense-tracker-api
-cd expense-tracker-api
-pip install -r requirements.txt
-python manage.py migrate
-python manage.py runserver
-# API root → http://localhost:8000/api/
-```
 
 ---
 
